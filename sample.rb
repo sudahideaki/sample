@@ -1,5 +1,5 @@
-def hello
-  p "hello, GitHub Desktop."
-end
+class Review
 
-hello
+end
+review = Review.new
+puts review
